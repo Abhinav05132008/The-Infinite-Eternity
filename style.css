@@ -141,6 +141,10 @@ button:focus,
     outline: thin dotted;
     text-decoration: underline;
 }
+.toggle-mobile-menu {
+font-size: 20px;
+padding: 7px;
+}
 a:active,
 a:hover {
   outline-width: 0;
