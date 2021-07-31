@@ -1011,7 +1011,7 @@ top: 0;
 left: 0;
 z-index: 5;
 display:block;
-background-color: rgb(0,0,0,0.2);
+background-color: rgb(0,0,0,0.5);
 -webkit-transition: height 0.3s;
 -moz-transition: height 0.3s;
 -ms-transition: height 0.3s;
