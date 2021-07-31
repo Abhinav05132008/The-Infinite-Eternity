@@ -4925,7 +4925,6 @@ margin-left: 0px;
 /*start slider styel*/
 .loader {
   position: absolute;
-  border: 2px solid #D4B068;
   border-radius: 50%;
   border-top: 2px solid #f3f3f3;
   width: 50px;
