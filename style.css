@@ -4160,7 +4160,7 @@ padding-top:10px;
   text-decoration: none;
   top: 5px;
   width: auto;
-  z-index: 100000;
+  z-index: 6;
   /* Above WP toolbar. */
 }
 /* Do not show the outline on the skip link target. */
