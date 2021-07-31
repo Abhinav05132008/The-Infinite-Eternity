@@ -4304,7 +4304,7 @@ header.smaller #main-menu-wrapper nav.navigation ul{
     .mobile-menu-active #site-header,
     .mobile-menu-active .footer
      { left: 300px; transition: left 500ms ease; }
-    .navigation.mobile-menu-wrapper { display: block; position: fixed; top: 0px; left: -300px; width: 300px; height: 100vh; background-color: #fff;overflow: auto; transition: left 500ms ease; -webkit-backface-visibility: hidden;   z-index: 6;}
+    .navigation.mobile-menu-wrapper { display: block; position: fixed; top: 0px; left: -300px; width: 300px; height: 100vh; background-color: #fff;overflow: auto; transition: left 500ms ease; -webkit-backface-visibility: hidden;   z-index: 5;}
     .mobile-menu-active .navigation.mobile-menu-wrapper {left: 0}
     .navigation ul li { width: 100%; display: block;}
     .navigation ul li:hover { background: none }
