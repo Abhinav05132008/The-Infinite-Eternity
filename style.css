@@ -487,7 +487,6 @@ height:0;
   bottom: 0;
   background-color: #fefefe;
   z-index: 7;
-  position: fixed;
   height: 100%;
   width: 100%;
   overflow: hidden !important;
