@@ -481,6 +481,7 @@ height:0;
 }
 /*** Loader css **/
 .overlayloader {
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
