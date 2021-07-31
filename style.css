@@ -1317,7 +1317,7 @@ background-attachment: fixed !important ;
 background: rgba(0, 0, 0, 0.55);
 top:0px;
 width: 100%;
-z-index:9999; 
+z-index:5; 
 height:100%;    
 }
 .fs-caption {
